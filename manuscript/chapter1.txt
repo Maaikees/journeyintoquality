@@ -1,3 +1,19 @@
-# Chapter 1
+# Chapter 1 - Welcome
 
-Hello, world!
+All happy software development projects are alike, but every unhappy software development project is unhappy in its own way. 
+
+This line is a tribute to the first line of Tolstoy’s book Anna Karenina, which reads: "All happy families are alike; each unhappy family is unhappy in its own way." The only problem is that I’ve never even seen a happy software development project, so I can't tell if happy projects are alike... I’ve never seen a project that wasn’t plagued by its own unique problems. 
+
+But just because a project has problems and can make people miserable, it doesn’t necessarily follow that we get bad quality software. 
+
+How can this be?
+
+We toss around the word “quality” as if it’s understood by everyone, but it’s not. In this book I want to experiment with peoples perceptions about quality. 
+
+I want to keep this fairly light, but we probably cannot avoid getting philosophical at some points in the journey. I hope you don't mind.
+
+It's probably also a good idea for me to talk to many people about this subject and weave their thoughts and visions into this book. I cannot avoid bias for 100 percent, but I will at least try to get diverse thoughts into this book. 
+
+I also want to make clear that this book is not about testing. When it comes to quality, everyone is involved. Testing doesn't directly create quality (if that's even possible), people do. And what do I mean by quality, anyway?
+
+Let's start our journey into quality. 
